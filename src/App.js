@@ -7,7 +7,7 @@ import Annotations from "./Annotations";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
+      <h1>Simple video Annotation Tool</h1>
       <Annotations img={image} />
     </div>
   );
