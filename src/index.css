@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.selected-tool {
+  
+  background: #47abd5;
+}
+.gVmiLs{
+  width: 500px!important;
+}
+.bNCCdn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bNCCdn {
+  clear: both;
+  position: relative;
+  width: 500px!important;
+  touch-action: pinch-zoom;
+  margin: 0 auto;
+}
